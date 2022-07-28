@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         function calculoMediaNotas(notaA, notaB, notaC, notaD){
             var media = (notaA+notaB+notaC+notaD) / 4;
             return media;
@@ -8,5 +7,3 @@
         console.log(media)
 
 
-    </script>
-</html>
