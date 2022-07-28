@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         
 
         // 1 - Receber um numero como parametro
@@ -19,5 +18,4 @@
             return existe;
 
         }
-    </script>
-</html>
+ 
