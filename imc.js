@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         // imc = peso / (altura * altura)
         function imc(peso, altura) {
             var imc = peso / (altura * altura);
@@ -20,5 +19,4 @@
         return imc;
         }
 
-    </script>
-</html>
+ 
