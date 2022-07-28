@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         // declarando variáveis
         var abacate = 2;
         var melancia = 3;
@@ -15,5 +14,3 @@
         totalFrutasSacola = abacate + melancia;
         console.log(totalFrutasSacola)
 
-    </script>
-</html>
