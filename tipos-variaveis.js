@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         // string
         var modelo = "Gol";
         var marca = 'VW';
@@ -19,5 +18,3 @@
         console.log(ipvaPago)
         console.log(seguroPago)
         
-    </script>
-</html>
