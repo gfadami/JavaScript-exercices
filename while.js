@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         var nomes = ['Gustavo', 'Maria', 'Jose', 'Ana', 'Jorge', 'Pedro', 'Caio'];
 
         /*console.log(nome[0]);
@@ -13,5 +12,3 @@
             console.log(nomes[i]);
             i++; // incremento
         }
-    </script>
-</html>
