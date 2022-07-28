@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         var hojeFezCalor = false;
         var ontemFezCalor = true;
         
@@ -14,5 +13,3 @@
         if (!hojeFezCalor) {
             console.log('Hoje não fez calor')
         }
-    </script>
-</html>
