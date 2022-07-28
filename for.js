@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         /*var nomes = ['Gustavo', 'Maria', 'Jose', 'Ana', 'Jorge', 'Pedro', 'Caio'];
 
         for (var i = 0; i <= nomes.length; i++) {
@@ -12,5 +11,4 @@
         }
 
 
-    </script>
-</html>
+ 
