@@ -1,5 +1,4 @@
 
-    <script>
         var carros = ["Gol", "Palio", "Uno"];
         console.log(carros)
 
@@ -34,5 +33,3 @@
 
         carros.shift(); // remove o primeiro elemento
         console.log(carros);
-
-    </script>
