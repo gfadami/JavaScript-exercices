@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         // Criar uma função que recebe uma palavra como parametro e retorna essa palavra invertida.
 
         // 1 - Receber a palavra como parametro
@@ -19,5 +18,3 @@
             }
             return palavraInvertida;
         }
-    </script>
-</html>
