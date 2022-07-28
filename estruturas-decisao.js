@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         var a = 40;
         var b = 40;
         
@@ -30,5 +29,3 @@
         if (f != g) {
             console.log("f é diferente de g")
         }
-    </script>
-</html>
