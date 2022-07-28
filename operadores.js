@@ -1,5 +1,4 @@
-<html>
-    <script>
+
         // soma e subtração
         var soma = 4 + 2;
         var subtracao = 5 - 3;
@@ -39,5 +38,4 @@
         console.log(incremento)
         console.log(decremento)
 
-    </script>
-</html>
+   
